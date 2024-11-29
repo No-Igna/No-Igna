@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi! I'm José Ignacio 👋
+#### Front-End Developer Junior
+---
+#### I'm currently:
+- reinforcing my knowlegde in Vue and JavaScript.
+- working in my best practices.
+- trying to learn some of jest.
+- developing small personal projects.
 
-<!--
-**No-Igna/No-Igna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Lenguages & Skills
+##### Major Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,git,github,vue)](https://skillicons.dev)
+##### Minor Skills:
+[![My Skills](https://skillicons.dev/icons?i=jest,jquery,firebase)](https://skillicons.dev)
+____
 
-Here are some ideas to get you started:
+#### Some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pending...
+
+---
+
+![No-Igna's Stats](https://github-readme-stats.vercel.app/api?username=No-Igna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+---
