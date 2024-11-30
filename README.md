@@ -1,24 +1,28 @@
 ### Hi! I'm José Ignacio 👋
-#### Front-End Developer Junior
----
-#### I'm currently:
-- reinforcing my knowlegde in Vue and JavaScript.
-- working in my best practices.
-- trying to learn some of jest.
-- developing small personal projects.
+#### Junior Front-End Developer
 
-#### Lenguages & Skills
-##### Major Skills:
+---
+💻 **Currently Working On:**
+- Reinforcing my knowledge of **Vue** and **JavaScript**.
+- Enhancing my **best practices**.
+- Exploring **Jest** testing.
+- Developing **personal projects** to sharpen my skills.
+
+---
+🌐 **Languages & Skills:**
+##### **Major Skills:**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,git,github,vue)](https://skillicons.dev)
-##### Minor Skills:
+
+##### **Minor Skills:**
 [![My Skills](https://skillicons.dev/icons?i=jest,jquery,firebase)](https://skillicons.dev)
-____
-
-#### Some of my projects:
-
-pending...
 
 ---
+🚀 **Some of my projects:**
+
+_Pending..._ (coming soon!)
+
+---
+📊 **My GitHub Stats:**
 
 ![No-Igna's Stats](https://github-readme-stats.vercel.app/api?username=No-Igna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
