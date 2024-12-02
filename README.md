@@ -27,3 +27,8 @@ _Pending..._ (coming soon!)
 ![No-Igna's Stats](https://github-readme-stats.vercel.app/api?username=No-Igna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
+
+📫 **Contact Me:**
+
+- **Email:** [j.igna.perez@gmail.com](mailto:j.igna.perez@gmail.com)
+- **LinkedIn:** [José Ignacio Pérez](https://www.linkedin.com/in/josé-ignacio-pérez-b48354198/)
