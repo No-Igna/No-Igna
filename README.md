@@ -31,4 +31,4 @@ _Pending..._ (coming soon!)
 📫 **Contact Me:**
 
 - **Email:** [j.igna.perez@gmail.com](mailto:j.igna.perez@gmail.com)
-- **LinkedIn:** [José Ignacio Pérez](https://www.linkedin.com/in/josé-ignacio-pérez-b48354198/)
+- **LinkedIn:** [José Ignacio Pérez](https://www.linkedin.com/in/ji-perez/)
